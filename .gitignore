@@ -1,0 +1,14 @@
+# Ambiente Virtual
+.venv/
+venv/
+__pycache__/
+
+# Configurações sensíveis (NUNCA suba o .env)
+.env
+
+# Dados brutos (CSVs são muito pesados para o GitHub)
+Scripts/bases_originais_prf/
+*.csv
+
+# Banco de Dados
+*.db

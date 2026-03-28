@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+psycopg2-binary
+dash
+plotly
+python-dotenv
