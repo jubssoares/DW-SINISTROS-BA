@@ -1,4 +1,4 @@
-# Arquitetura de Data Warehouse para Análise de Sinistralidade Viária (Bahia)
+# Data Warehouse e ETL em Python para Análise de Sinistros Rodoviários na Bahia
 
 Este repositório contém o código-fonte e a documentação técnica do projeto de conclusão de curso (TCC) em Engenharia de Software (USP/Esalq).
 
